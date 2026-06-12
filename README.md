@@ -5,3 +5,5 @@ Pi desde Uxnan Desktop
 Desde Uxnan Mobile - Opencode Zen
 From Pi Agent - Uxnan Mobile App
 Firmado por Codex desde Uxnan Mobile
+Harness Pi / Gemini desde Uxnan Mobile
+Otra firma de Codex desde Uxnan Mobile
